@@ -1,3 +1,3 @@
-# 🏈 Margen de Decisión del QB
+#Margen de Decisión del QB
 
 **Margen de Decisión del QB** es una aplicación web que analiza datos reales del NFL Big Data Bowl 2021 para estudiar cuánto tiempo tiene un quarterback para lanzar el balón antes de recibir presión defensiva. Su principal innovación es el cálculo del **Margen de Decisión**, obtenido mediante la diferencia entre el tiempo hasta que un defensor alcanza la distancia de presión y el tiempo que tarda el quarterback en lanzar. La plataforma permite comparar quarterbacks, defensores, equipos, formaciones ofensivas, coberturas defensivas y situaciones de partido mediante estadísticas y visualizaciones interactivas. Además, genera recomendaciones tácticas basadas en los resultados históricos para identificar las configuraciones que ofrecen mejores condiciones de lanzamiento. El proyecto utiliza Python, FastAPI, React y TypeScript, priorizando el procesamiento de datos reales y la transparencia metodológica.
